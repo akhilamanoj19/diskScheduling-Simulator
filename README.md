@@ -30,9 +30,12 @@ This project is a simulation tool for various disk scheduling algorithms, develo
 
 ## 📊 Sample Output
 
-Include screenshots or example outputs here if available.
+![Screenshot 2025-04-15 162526](https://github.com/user-attachments/assets/4ee98113-c906-4d2b-ac27-649c4fe95a10)
+
+
 
 ## 📚 How to Run
+
 
 ### Prerequisites
 - Install [Python] 
