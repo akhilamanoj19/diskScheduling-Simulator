@@ -24,7 +24,6 @@ This project is a simulation tool for various disk scheduling algorithms, develo
 
 ## 📂 Project Structure
 
-![Picture1-removebg-preview](https://github.com/user-attachments/assets/0039d5bc-db29-4b2b-b9d5-4cd2dc0ec33c)
-
+![image](https://github.com/user-attachments/assets/949d967d-0538-47a5-8441-c5bb2f634bf1)
 
 
