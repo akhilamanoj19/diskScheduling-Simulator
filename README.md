@@ -27,3 +27,19 @@ This project is a simulation tool for various disk scheduling algorithms, develo
 ![image](https://github.com/user-attachments/assets/949d967d-0538-47a5-8441-c5bb2f634bf1)
 
 
+
+## 📊 Sample Output
+
+Include screenshots or example outputs here if available.
+
+## 📚 How to Run
+
+### Prerequisites
+- Install [Python] 
+- Clone the repository:
+  ```bash
+  git clone https://github.com/akhilamanoj19/diskScheduling-Simulator.git
+  cd Advanced-Disk-Scheduling-Simulator
+
+# Example for Python
+python main.py
