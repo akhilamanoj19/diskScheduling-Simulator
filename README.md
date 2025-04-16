@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b9981c6f-7ed0-4162-9551-5f5c3968a786)# Advanced Disk Scheduling Simulator
+# Advanced Disk Scheduling Simulator
 
 This project is a simulation tool for various disk scheduling algorithms, developed as part of the Operating Systems course (CSE316) under the guidance of Dr. Gurbinder Singh Brar.
 
@@ -24,5 +24,6 @@ This project is a simulation tool for various disk scheduling algorithms, develo
 
 ## 📂 Project Structure
 
-\![image](https://github.com/user-attachments/assets/8503036f-42a4-4905-8ed5-0748d2d8794a)
+![image](https://github.com/user-attachments/assets/8e82205d-e2d0-4827-92ba-9921ea23303b)
+
 
